@@ -6,6 +6,8 @@ Description: Шорткод [metrika_goal id_counter="" jq_selector="" jq_event=
 Author: Systemo
 Version: 1.0
 Author URI: http://systemo.biz
+GitHub Plugin https://github.com/systemo-biz/metrika-goals-shortcode/
+GitHub Branch: master
 */
 
 
