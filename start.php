@@ -1,7 +1,7 @@
 <?php
 /**
 Plugin Name: Цели для Яндекс.Метрики
-Plugin URI: http://wordpress.org/plugins/hello-dolly/
+Plugin URI: https://github.com/systemo-biz/metrika-goals-shortcode
 Description: Шорткод [metrika_goal id_counter="" jq_selector="" jq_event="" me_id=""], который создает событие на странице сайта и позволят настроить отслеживание целей. Требуется jQuery.
 Author: Systemo
 Version: 1.0
