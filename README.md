@@ -6,6 +6,10 @@
 
 # Примеры
 
+Нам нужно настроить отслеживание количества отправленных заявок с посадочной страницы.
+Придумываем идентификатор цели события "form_send_content". Настраиваем его в Яндекс.Метрике по примеру из статьи: http://systemo.biz/kak-nastroit-tseli-yandeks-metriki-dlya-sajta-na-wordpress-na-primere-dvuh-posadochnyh-stranits/
+
+Затем на страницу вставляем шорткод: 
 [metrika_goal id_counter="27903495" jq_selector=".form_wrapper_external_cp form" jq_event="submit" me_id="form_send_content"]
 
 Сгенерирует код типа:
