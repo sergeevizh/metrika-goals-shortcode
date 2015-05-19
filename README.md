@@ -10,6 +10,7 @@
 
 Сгенерирует код типа:
 
+```
 <script type="text/javascript">
   (function ($) {
    $('.form_wrapper_external_cp form').submit(function(){
@@ -17,3 +18,4 @@
    });
   }(jQuery));
 </script>
+```
