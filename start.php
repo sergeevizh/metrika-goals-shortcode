@@ -4,7 +4,7 @@ Plugin Name: Цели для Яндекс.Метрики
 Plugin URI: https://github.com/systemo-biz/metrika-goals-shortcode
 Description: Шорткод [metrika_goal id_counter="" jq_selector="" jq_event="" me_id=""], который создает событие на странице сайта и позволят настроить отслеживание целей. Требуется jQuery.
 Author: Systemo
-Version: 1.1
+Version: 1.2
 Author URI: http://systemo.biz
 GitHub Plugin https://github.com/systemo-biz/metrika-goals-shortcode/
 GitHub Branch: master
