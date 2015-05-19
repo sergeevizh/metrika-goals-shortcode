@@ -9,7 +9,7 @@
 [metrika_goal id_counter="27903495" jq_selector=".form_wrapper_external_cp form" jq_event="submit" me_id="form_send_content"]
 
 Сгенерирует код типа:
-`
+
 <script type="text/javascript">
   (function ($) {
    $('.form_wrapper_external_cp form').submit(function(){
@@ -17,4 +17,3 @@
    });
   }(jQuery));
 </script>
-`
